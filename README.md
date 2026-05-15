@@ -23,29 +23,17 @@ Walk away with a deployable agent and the confidence to build more.
 
 ## Three Tiers — Meet Builders Where They Are
 
-```
-                  ┌─────────────────────────────┐
-                  │     TIER 3 — Foundry        │   Pro-code & advanced
-                  │     Pro Developers          │   Custom AI, model choice,
-                  └─────────────────────────────┘   evaluations, full control
-              ┌─────────────────────────────────────┐
-              │      TIER 2 — Copilot Studio        │   Low-code & extensible
-              │      Citizen Developers             │   Orchestrate & govern
-              └─────────────────────────────────────┘   across Copilot & beyond
-         ┌──────────────────────────────────────────────┐
-         │      TIER 1 — M365 Copilot Agent Builder     │   Maker-first foundation
-         │      Business Makers                          │   Quick, in-context agents
-         └──────────────────────────────────────────────┘   inside M365 Copilot Chat
-```
+<img src="images/Tiers.png" width="600">
+
 
 | Tier | Platform | Audience | Duration | Approach |
 |------|----------|----------|----------|----------|
 | **1 — Foundation** | Microsoft 365 Copilot Agent Builder | Business makers, end users, departmental teams | 60 min | No-code |
-| **2 — Extend** | Copilot Studio | Citizen developers, power users, ops teams | 60 min | Low-code |
-| **3 — Pro-Code** | Azure AI Foundry | Pro developers, architects, AI engineers | 60 min | Code-first |
+| **2 — Extend** | Copilot Studio | Citizen developers, power users, ops teams | 90 min | Low-code |
+| **3 — Pro-Code** | Azure AI Foundry | Pro developers, architects, AI engineers | 180+ min | Code-first |
 
 ---
-
+<img src="images/tier1.png" width="600">
 ## Tier 1 — M365 Copilot Agent Builder
 
 **Author your first agent — no code required.**
@@ -66,7 +54,7 @@ Walk away with a deployable agent and the confidence to build more.
 **You'll walk away with** a working agent you can use immediately, plus a repeatable pattern for future use cases.
 
 ---
-
+<img src="images/tier2.png" width="600">
 ## Tier 2 — Copilot Studio
 
 **Orchestrate multi-step agents across enterprise systems.**
@@ -87,7 +75,7 @@ Walk away with a deployable agent and the confidence to build more.
 **You'll walk away with** a published copilot running in Teams or on the web, plus a pattern for connecting copilots to enterprise systems.
 
 ---
-
+<img src="images/tier3.png" width="600">
 ## Tier 3 — Azure AI Foundry
 
 **Ship a code-first agent with evaluations and observability.**
