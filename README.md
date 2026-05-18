@@ -3,7 +3,7 @@
 > **Choose your tier. Build it. Ship it.**
 > A self-serve service for producing engaging, industry- and function-specific Agent Build-Along sessions across the Microsoft platform stack.
 
-**Microsoft 365 Copilot · Copilot Studio · Azure AI Foundry**
+**Microsoft 365 Copilot · Copilot Studio · Azure AI Foundry · Cowork**
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Schedule](https://img.shields.io/badge/2026-rolling%20schedule-blue.svg)]()
@@ -21,7 +21,7 @@ Walk away with a deployable agent and the confidence to build more.
 
 ---
 
-## Three Tiers — Meet Builders Where They Are
+## 4 Tiers — Meet Builders Where They Are
 
 <img src="images/Tiers.png" width="600">
 
@@ -31,6 +31,7 @@ Walk away with a deployable agent and the confidence to build more.
 | **1 — Foundation** | Microsoft 365 Copilot Agent Builder | Business makers, end users, departmental teams | 60 min | No-code |
 | **2 — Extend** | Copilot Studio | Citizen developers, power users, ops teams | 90 min | Low-code |
 | **3 — Pro-Code** | Azure AI Foundry | Pro developers, architects, AI engineers | 180+ min | Code-first |
+| **4 — Multi-Step** | Cowork |  Business makers, end users, departmental teams  | 75 min | No-Code |
 
 ---
 <img src="images/tier1.png" width="600">
