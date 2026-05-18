@@ -21,7 +21,7 @@ Walk away with a deployable agent and the confidence to build more.
 
 ---
 
-## 4 Tiers — Meet Builders Where They Are
+## 3 Tiers — Meet Builders Where They Are
 
 <img src="images/Tiers.png" width="600">
 
@@ -31,7 +31,7 @@ Walk away with a deployable agent and the confidence to build more.
 | **1 — Foundation** | Microsoft 365 Copilot Agent Builder | Business makers, end users, departmental teams | 60 min | No-code |
 | **2 — Extend** | Copilot Studio | Citizen developers, power users, ops teams | 90 min | Low-code |
 | **3 — Pro-Code** | Azure AI Foundry | Pro developers, architects, AI engineers | 180+ min | Code-first |
-| **4 — Multi-Step** | Cowork |  Business makers, end users, departmental teams  | 75 min | No-Code |
+| **Bonus** | Cowork |  Business makers, end users, departmental teams  | 75 min | No-Code |
 
 ---
 <img src="images/tier1.png" width="600">
